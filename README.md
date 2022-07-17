@@ -90,7 +90,7 @@ Example: `"fable-deno-http": "https://deno.land/std@0.148.0/http/mod.ts"`
 - [ ] fmt
 - [ ] fs
 - [ ] hash
-- [ ] http
+- [x] http
   - [x] HttpError
   - [x] Server
   - [x] Status
