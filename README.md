@@ -59,9 +59,6 @@ Example: `"fable-deno-http": "https://deno.land/std@0.148.0/http/mod.ts"`
   - [x] DeadlineError
   - [x] MuxAsyncIterator
   - [x] ERROR_WHILE_MAPPING_MESSAGE
-  - [x] DeadlineError
-  - [x] MuxAsyncIterator
-  - [x] ERROR_WHILE_MAPPING_MESSAGE
   - [x] abortable
   - [x] abortableAsyncIterable
   - [x] abortablePromise
